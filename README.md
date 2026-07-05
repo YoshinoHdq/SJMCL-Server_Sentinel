@@ -1,6 +1,6 @@
 ﻿<div align=center>
 
-# 服务器监控
+# Server Sentinel
 
 Minecraft 服务器监控面板 - 实时查看在线人数、延迟、TPS 与状态 📊
 
@@ -10,7 +10,7 @@ Minecraft 服务器监控面板 - 实时查看在线人数、延迟、TPS 与状
 
 ## 简介
 
-服务器监控是一款 SJMCL 扩展，在启动器内实时监控 Minecraft 服务器的运行状态，包括在线人数、延迟、TPS 等关键指标。
+Server Sentinel 是一款 SJMCL 扩展，在启动器内实时监控 Minecraft 服务器的运行状态，包括在线人数、延迟、TPS 等关键指标。
 
 ## 功能特色
 
@@ -23,7 +23,7 @@ Minecraft 服务器监控面板 - 实时查看在线人数、延迟、TPS 与状
 
 ## 使用方法
 
-1. 在 Releases 下载 org.sjmcl.server-monitor.sjmclx
+1. 在 Releases 下载 org.yoshino.Server_Sentinel.sjmclx
 2. 打开 SJMCL → 设置 → 扩展管理 → 导入
 3. 在扩展设置页添加要监控的服务器地址
 4. （可选）如需 TPS 监控，在服务器配置中选择自定义 HTTP 端点并填入 API URL
